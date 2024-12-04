@@ -1,0 +1,4 @@
+Sample	fastk	fastqc	nf-core/assemblyeval	Nextflow
+FASTK_FASTK	f18a4e6d2207539f7b84461daebc54530a9559b0			
+FastQC		0.12.1		
+Workflow			1.0.dev0	23.10.1
