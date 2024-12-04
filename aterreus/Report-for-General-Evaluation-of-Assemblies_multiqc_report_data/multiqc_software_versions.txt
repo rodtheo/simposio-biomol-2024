@@ -1,0 +1,13 @@
+Sample	ale	busco	bwa	samtools	fastk	fastqc	merfin	merquryfk	r	quast	REAPR	nf-core/assemblyeval	Nextflow
+ALE	20180904												
+BUSCO_BUSCO		5.7.1											
+BWA_INDEX			0.7.18-r1243-dirty										
+BWA_MEM			0.7.18-r1243-dirty	1.2									
+FASTK_FASTK					f18a4e6d2207539f7b84461daebc54530a9559b0								
+FastQC						0.12.1							
+MERFIN_COMPLETENESS							1.0						
+MERFIN_HIST_EVALUATE_PRIMARY_ASSEMBLY							1.0						
+MERQURYFK_MERQURYFK					f18a4e6d2207539f7b84461daebc54530a9559b0			8ae344092df5dcaf83cfb7f90f662597a9b1fc61	4.2.0				
+QUAST										5.2.0			
+REAPR											1.0.18)		
+Workflow												1.0.dev0	24.4.4
