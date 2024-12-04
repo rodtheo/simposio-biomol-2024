@@ -1,3 +1,0 @@
-Module	Section	Sample Name	Source
-FastQC	all_sections	Aterreus_2	/home/rodtheo/Bioinfo/NEXTFLOW/nf-core-assemblyeval/work/de/1c2714fb4124c1fe58407f22907aff/4/Aterreus_2_fastqc.zip
-FastQC	all_sections	Aterreus_1	/home/rodtheo/Bioinfo/NEXTFLOW/nf-core-assemblyeval/work/de/1c2714fb4124c1fe58407f22907aff/3/Aterreus_1_fastqc.zip
